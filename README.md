@@ -1,5 +1,7 @@
 # AngularTuto
 
+Note from the author : This is the work i've done so far following a MOOC about AngularJS on OpenClassrooms Website.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
 ## Development server
