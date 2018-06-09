@@ -1,6 +1,6 @@
 # AngularTuto
 
-This is the work i've done so far following a MOOC about AngularJS on OpenClassrooms Website.
+This is the work i've done so far following a MOOC about Angular on OpenClassrooms Website.
 
 If you want this to work, don't forget to use `npm install` to install the necessary packages.
 
